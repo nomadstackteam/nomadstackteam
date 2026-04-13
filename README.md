@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nomadstackteam/.github/main/assets/logo.png" width="160" alt="NoMadStack Logo">
-</p>
-
 <h1 align="center">NoMadStack</h1>
 <p align="center"><strong>IT-решения для бизнеса</strong></p>
 <p align="center">Строим цифровое будущее бизнеса</p>
@@ -29,15 +25,6 @@
 ### Стек
 
 `Next.js` `TypeScript` `Python` `Node.js` `Docker` `PostgreSQL` `Redis` `Tailwind CSS`
-
----
-
-### Команда
-
-| | GitHub | Telegram |
-|---|---|---|
-| **Олег** | [@LuckyPuncher](https://github.com/LuckyPuncher) | @luckypuncher |
-| **Денис** | [@RoXyGeNOFF](https://github.com/RoXyGeNOFF) | @roxygenoff |
 
 ---
 
